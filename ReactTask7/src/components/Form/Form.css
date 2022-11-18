@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    font-size: 18px;
+    margin: 10px 25px;
+}
+
+label,input{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.last-check{
+    display: flex;
+}
+
+input,textarea{
+    background-color: bisque;
+    width: 300px;
+    height: 40px;
+    padding: 5px;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+}
+
+textarea{
+    height: 150px;
+}
+
+button{
+    background-color: tan;
+    padding: 10px;
+        border: none;
+    outline: none;
+    border-radius: 7px;
+}
+
+
